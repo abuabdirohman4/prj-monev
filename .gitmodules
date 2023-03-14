@@ -1,0 +1,6 @@
+[submodule "monev-service"]
+	path = monev-service
+	url = git@github.com:samudra-ajri/monev-service.git
+[submodule "monev-website"]
+	path = monev-website
+	url = git@github.com:samudra-ajri/monev-website.git
