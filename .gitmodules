@@ -7,3 +7,6 @@
 [submodule "monev-fe"]
 	path = monev-fe
 	url = git@github.com:devsabil/monev-fe.git
+[submodule "monev-fe-react"]
+	path = monev-fe-react
+	url = git@github.com:abuabdirohman4/monev-fe-react.git
